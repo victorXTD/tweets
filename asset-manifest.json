@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/tweets/static/js/main.f6cb34fc.chunk.js",
-    "main.js.map": "/tweets/static/js/main.f6cb34fc.chunk.js.map",
+    "main.js": "/tweets/static/js/main.2c315365.chunk.js",
+    "main.js.map": "/tweets/static/js/main.2c315365.chunk.js.map",
     "runtime-main.js": "/tweets/static/js/runtime-main.104e0796.js",
     "runtime-main.js.map": "/tweets/static/js/runtime-main.104e0796.js.map",
     "static/css/2.0c0672e5.chunk.css": "/tweets/static/css/2.0c0672e5.chunk.css",
-    "static/js/2.b3a8a18e.chunk.js": "/tweets/static/js/2.b3a8a18e.chunk.js",
-    "static/js/2.b3a8a18e.chunk.js.map": "/tweets/static/js/2.b3a8a18e.chunk.js.map",
+    "static/js/2.3be1620e.chunk.js": "/tweets/static/js/2.3be1620e.chunk.js",
+    "static/js/2.3be1620e.chunk.js.map": "/tweets/static/js/2.3be1620e.chunk.js.map",
     "index.html": "/tweets/index.html",
-    "precache-manifest.7b2e57d21c1c9ed0cb1d439cd81d48c2.js": "/tweets/precache-manifest.7b2e57d21c1c9ed0cb1d439cd81d48c2.js",
+    "precache-manifest.8dcc2b0aeb6c8b376996659008d6425c.js": "/tweets/precache-manifest.8dcc2b0aeb6c8b376996659008d6425c.js",
     "service-worker.js": "/tweets/service-worker.js",
     "static/css/2.0c0672e5.chunk.css.map": "/tweets/static/css/2.0c0672e5.chunk.css.map",
-    "static/js/2.b3a8a18e.chunk.js.LICENSE.txt": "/tweets/static/js/2.b3a8a18e.chunk.js.LICENSE.txt"
+    "static/js/2.3be1620e.chunk.js.LICENSE.txt": "/tweets/static/js/2.3be1620e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.104e0796.js",
     "static/css/2.0c0672e5.chunk.css",
-    "static/js/2.b3a8a18e.chunk.js",
-    "static/js/main.f6cb34fc.chunk.js"
+    "static/js/2.3be1620e.chunk.js",
+    "static/js/main.2c315365.chunk.js"
   ]
 }
